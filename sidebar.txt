@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ena:home|Door43 (ena)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ena|d43-ena repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ena/archive/master.zip|d43-ena.zip]]
+
+**Recent Changes**
+{{changes>ns = ena}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ena|Ethnologue data]]
+
